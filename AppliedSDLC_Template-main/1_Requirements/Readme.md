@@ -11,7 +11,7 @@
 ## Defining Our System
     -- TBD
 ## SWOT ANALYSIS
-https://unsplash.com/photos/oMpAz-DN-9I
+![SWOT](Lint to SWOT)
 
 # 4W&#39;s and 1&#39;H
 
